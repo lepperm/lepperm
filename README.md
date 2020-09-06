@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hello! 👋
 
-<!--
-**lepperm/lepperm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Max Lepper, and I am an aspiring front-end web developer from Dayton, Ohio. I am currently devoting most of my time outside of work with web projects and learning.
 
-Here are some ideas to get you started:
+### 💻 My Sites
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Learning Log → <https://maxlepper.gitlab.io/learning-log/>
+
+Learning Log is my daily tracker for web development logs, with statistics about how I am spending my time, what I am working on, reflections and notes from what I have learned, and what I have planned next.
+
+- My Portfolio → <https://maxlepper.me/>
+
+My portfolio is currently under construction, as my primary focus has been Learning Log and building a strong learning foundation.
+
+### 💬 Contact Me
+
+- GitLab → <https://gitlab.com/maxlepper>
+- LinkedIn → <https://www.linkedin.com/in/maxlepper/>
+
+### 📈 GitHub Stats
+
+![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=lepperm&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lepperm&layout=compact&theme=tokyonight)
