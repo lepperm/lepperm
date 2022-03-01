@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-My name is Max Lepper, and I am an aspiring front-end web developer from Dayton, Ohio. I am currently devoting most of my time outside of work to web projects and learning.
+My name is Max Lepper, and I am a front-end web developer from Dayton, Ohio. I am currently devoting most of my time outside of work to web projects and learning.
 
 ### 💻 My Sites
 
